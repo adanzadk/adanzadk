@@ -3,8 +3,6 @@
 - 🔭 I’m currently studyng on P6 ...
 - 🌱 I’m currently learning git
 - 👯 I’m good at working in a team
-- 🤔 I’m 
-- 💬 Ask me about 
-- 📫 H
+- 💬 Ask me about program development
 - ♟️ Fun fact: i like chess
 

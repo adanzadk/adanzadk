@@ -1,10 +1,10 @@
-## Hola, que tal?👋
+## Hola, que tal?👋 soy Adan Zadkiel =)
 
 - 🔭 I’m currently studyng on P6 ...
 - 🌱 I’m currently learning git
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m good at working in a team
+- 🤔 I’m 
 - 💬 Ask me about 
-- 📫 How to reach me: ...
+- 📫 H
 - ♟️ Fun fact: i like chess
 
